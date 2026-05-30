@@ -77,8 +77,7 @@ Google Fonts — Syne (headings) + DM Mono (body)
 ## ✨ Features
 
 - 🌑 **Dark & Modern UI** with cyan/purple accent theme
-- 🔲 **CSS Grid Background** with subtle dot pattern
-- 🖱️ **Custom Glowing Cursor** (auto-hidden on touch devices)
+- 🔲 **CSS Grid Background** with subtle dot pattern**
 - ⌨️ **Typing Effect** on hero section
 - 🔢 **Animated Number Counters** for stats
 - 👁️ **Scroll Reveal Animations** with stagger effects
