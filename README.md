@@ -3,7 +3,7 @@
 > A fully responsive, modern personal portfolio website built with pure **HTML5**, **CSS3**, and **Vanilla JavaScript** — no frameworks, no dependencies.
 
 🔗 **Live Site:** [asif-nawaz-portfolio.netlify.app](https://asif-nawaz-portfolio.netlify.app/)
-🐙 **GitHub:** [github.com/asifn0093](https://github.com/asifn0093)
+🐙 **GitHub:** [github.com/asifn0093](https://asifn0093.github.io/asif-nawaz-portfolio/)
 
 ---
 
